@@ -42,7 +42,7 @@
   "Action": "s3:GetObject",
   "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*"
 }]}
-
+```
 ### Lambda
 
   - The lambda was use to trigger an event

@@ -19,6 +19,10 @@
 
 - Upload the images.json file back to the S3 bucket
 
+## UML
+
+- ![UML of S3 and Lambda process](AWS-S3-Lambda.png)
+
 ## Documentation
 
 ### S3
